@@ -107,7 +107,7 @@ setMessage("");
 return (
 <div className="min-h-screen bg-gray-100 p-8">
 <h1 className="mb-6 text-3xl font-bold">
-ShopEasy - Product Management
+ShopEase - Product Management
 </h1>
 {products.length === 0 ? (
 <p>No products found.</p>
